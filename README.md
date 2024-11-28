@@ -1,7 +1,9 @@
-## Hi, Deepak here! 👋
+# Hi, Deepak here! 👋
 
 
-# FULL STACK DEVELOPER.
+### FULL STACK DEVELOPER.
+> CREATIVE , INNOVATIVE AND PASSIONATE
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -104,11 +106,23 @@ About Me:
 
 
 
+### STATS
+![deepuvkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepuvkrish&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepuvkrish&layout=compact)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepuvkrish)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-> CREATIVE , INNOVATIVE AND PASSIONATE
+
+
+
+
+
+
+
 
 
 
