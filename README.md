@@ -1,7 +1,7 @@
 ## Hi, Deepak here! 👋
 
 
-** FULL STACK DEVELOPER.
+### FULL STACK DEVELOPER.
 
 Here are some ideas to get you started:
 
