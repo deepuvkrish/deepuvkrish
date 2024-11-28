@@ -112,7 +112,7 @@ About Me:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=deepuvkrish&theme=holi-theme)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepuvkrish&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepuvkrish)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepuvkrish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
