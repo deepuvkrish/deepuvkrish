@@ -16,7 +16,7 @@ About Me:
 - 🌱 I’m currently learning GSAP & RUST
 - 👯 I’m looking to collaborate on opensource projects and as well as personal projects
 - 💬 Check my Porfolio: https://deepakkv.vercel.app/
-- 📫 How to reach me: kvdeepakkv1995@gmail.com
+- 📫 How to reach me: kvdeepakkv1995@gmail.com  |  deepudeepz383@gmail.com
 
 
 <details>
