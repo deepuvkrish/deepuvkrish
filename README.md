@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e)
 
-[![wakatime](https://wakatime.com/badge/github/deepuvkrish/authentication.svg)](https://wakatime.com/badge/github/deepuvkrish/authentication)
+[![wakatime](https://wakatime.com/badge/github/deepuvkrish/authentication.svg)](https://wakatime.com/badge/github/deepuvkrish/Flogreg_v.01)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
