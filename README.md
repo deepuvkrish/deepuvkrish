@@ -1,5 +1,11 @@
 # Hi, Deepak here! 👋
 
+![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
+![image](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)
+![image](https://img.shields.io/badge/Coderwall-3E8DCC?style=for-the-badge&logo=Coderwall&logoColor=white)
+![image](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)
+![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+![image](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
 
 ### FULL STACK DEVELOPER.
 > CREATIVE , INNOVATIVE AND PASSIONATE
