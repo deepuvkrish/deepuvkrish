@@ -7,6 +7,7 @@
 ![image](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
 
 > CREATIVE , INNOVATIVE AND PASSIONATE
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepuvkrish&theme=github_dark)
 
 # About Me:
 
@@ -15,9 +16,6 @@
 - 👯 I’m looking to collaborate on opensource projects and as well as personal projects
 - 💬 Check my Porfolio: https://deepakkv.vercel.app/
 - 📫 How to reach me: kvdeepakkv1995@gmail.com  |  deepudeepz383@gmail.com
-  
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepuvkrish&theme=github_dark)
-![image](https://github-readme-activity-graph.vercel.app/graph?username=deepuvkrish&theme=react)
 
 
 # Tech Stack
@@ -84,6 +82,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=deepuvkrish&theme=holi-theme)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepuvkrish&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepuvkrish&layout=compact&theme=holi)
+![image](https://github-readme-activity-graph.vercel.app/graph?username=deepuvkrish&theme=react)
+
 
 
 
