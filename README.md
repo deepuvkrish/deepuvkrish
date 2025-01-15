@@ -18,100 +18,69 @@
 
 About Me:
 
-- 🔭 I’m currently working as a FULL STACK DEVELOPER...
+- 🔭 I’m currently working as a FULL STACK DEVELOPER...![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - 🌱 I’m currently learning GSAP & RUST
 - 👯 I’m looking to collaborate on opensource projects and as well as personal projects
 - 💬 Check my Porfolio: https://deepakkv.vercel.app/
 - 📫 How to reach me: kvdeepakkv1995@gmail.com  |  deepudeepz383@gmail.com
 
 
-<details>
-<summary>Tech Stack</summary>
-  
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=gwR0hbBi5JeZ&format=png&color=FFFFFF">
-</picture>
-<picture>
-  <img alt="reactjs" src="https://img.icons8.com/?size=50&id=123603&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=bqGAqsgNQpmx&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="express" src="https://img.icons8.com/?size=50&id=WNoJgbzDr3i2&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="typescript" src="https://img.icons8.com/?size=50&id=wpZmKzk11AzJ&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=lXPUSRCongH1&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=qV-JzWYl9dzP&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="php" src="https://img.icons8.com/?size=50&id=YrKoPXb4jv9l&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=7gdY5qNXaKC0&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=4PiNHtUJVbLs&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="nextjs" src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="mongoDB" src="https://img.icons8.com/?size=50&id=bosfpvRzNOG8&format=png&color=000000">
-</picture>
+# Tech Stack
 
-<picture>
-  <img alt="mysql" src="https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="postgre" src="https://img.icons8.com/?size=50&id=38561&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="rust" src="https://img.icons8.com/?size=50&id=AeV543ttZrcT&format=png&color=000000">
-</picture>
+## PROGRAMMING LANGUAGES:-
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<picture>
-  <img alt="figma" src="https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="gitlabs" src="https://img.icons8.com/?size=50&id=epZz7YMDqqwA&format=png&color=000000">
-</picture>
-<picture>
-  <img alt="postman" src="https://img.icons8.com/?size=50&id=QEQQKirln6Tf&format=png&color=000000">
-</picture>
+## FRAMEWORKS AND LIBRARY:-
+![image](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![image](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
+## DATABASE :-
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## APPLICATIONS
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![image](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![image](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-</details>
-
-<details>
-<summary>Other Skills</summary>
-
-| Slno |     Skills    |
-|-----:|---------------|
-|     1|    Excel      |
-|     2|   Adobe PS    |
-|     3|    Canva      |
-</details>
 
 
 
