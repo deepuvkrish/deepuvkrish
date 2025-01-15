@@ -1,5 +1,4 @@
-# Hi, Deepak here! 👋
-
+  # Hi, Deepak here!  ![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e) ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{deepuvkrish}1212%2Fhit-counter)
 ![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
 ![image](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)
 ![image](https://img.shields.io/badge/Coderwall-3E8DCC?style=for-the-badge&logo=Coderwall&logoColor=white)
@@ -7,22 +6,18 @@
 ![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![image](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
 
-### FULL STACK DEVELOPER.
 > CREATIVE , INNOVATIVE AND PASSIONATE
 
-![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e)
+# About Me:
 
-[![wakatime](https://wakatime.com/badge/github/deepuvkrish/authentication.svg)](https://wakatime.com/badge/github/deepuvkrish/Flogreg_v.01)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-About Me:
-
-- 🔭 I’m currently working as a FULL STACK DEVELOPER...![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- 🔭 I’m currently working as a FULL STACK DEVELOPER...
 - 🌱 I’m currently learning GSAP & RUST
 - 👯 I’m looking to collaborate on opensource projects and as well as personal projects
 - 💬 Check my Porfolio: https://deepakkv.vercel.app/
 - 📫 How to reach me: kvdeepakkv1995@gmail.com  |  deepudeepz383@gmail.com
+  
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepuvkrish&theme=github_dark)
+![image](https://github-readme-activity-graph.vercel.app/graph?username=deepuvkrish&theme=react)
 
 
 # Tech Stack
@@ -82,7 +77,7 @@ About Me:
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+![image](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)
 
 ### STATS
 ![deepuvkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepuvkrish&show_icons=true&theme=holi)
@@ -90,7 +85,6 @@ About Me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepuvkrish&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepuvkrish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
