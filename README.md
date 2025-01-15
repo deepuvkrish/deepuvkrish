@@ -75,9 +75,10 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
+# STATS
+
 ![image](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)
 
-### STATS
 ![deepuvkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepuvkrish&show_icons=true&theme=holi)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=deepuvkrish&theme=holi-theme)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepuvkrish&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
