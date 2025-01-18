@@ -79,7 +79,6 @@
 ![image](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)
 
 ![deepuvkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepuvkrish&show_icons=true&theme=holi)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deepuvkrish&theme=holi-theme)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepuvkrish&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepuvkrish&layout=compact&theme=holi)
 ![image](https://github-readme-activity-graph.vercel.app/graph?username=deepuvkrish&theme=react)
