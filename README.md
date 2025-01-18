@@ -1,10 +1,14 @@
   # Hi, Deepak here!  ![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e) ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{deepuvkrish}1212%2Fhit-counter)
-![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
-![image](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)
-![image](https://img.shields.io/badge/Coderwall-3E8DCC?style=for-the-badge&logo=Coderwall&logoColor=white)
-![image](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)
-![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
-![image](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
+
+
+  ![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
+  ![image](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)
+  ![image](https://img.shields.io/badge/Coderwall-3E8DCC?style=for-the-badge&logo=Coderwall&logoColor=white)
+  ![image](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)
+  ![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+  ![image](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
+
+    
 
 > CREATIVE , INNOVATIVE AND PASSIONATE
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepuvkrish&theme=github_dark)
