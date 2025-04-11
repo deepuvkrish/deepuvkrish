@@ -1,4 +1,4 @@
-  # Hi, Deepak here!  ![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e) ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{deepuvkrish}1212%2Fhit-counter)
+  # Hi, Deepak here!  ![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e) 
 
 
   ![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
