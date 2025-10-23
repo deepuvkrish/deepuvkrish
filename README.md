@@ -88,6 +88,11 @@
 
 
 
+### Projects Worked So For:
+- SkillAssure :- E-Learning Platform using mit graded open edx framework and js.
+- Ranahospitals :- Hospital website using php and html.
+- ganges :- E-Commerse Platform using next js, postgreSQL.
+- officepal :- b2b type crm web portal using next js, postgreSQL, python.
 
 
 
