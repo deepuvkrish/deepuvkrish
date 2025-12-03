@@ -1,4 +1,4 @@
-  # Hi, Deepak here!  ![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e) 
+  # Hi, Deepak here!  ![GitHub followers](https://img.shields.io/github/followers/deepuvkrish?style=for-the-badge&logo=github&color=%2387ff1e)   
 
 
   ![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
@@ -81,9 +81,8 @@
 
 ![image](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)
 
-![deepuvkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepuvkrish&show_icons=true&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepuvkrish&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepuvkrish&layout=compact&theme=holi)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ![image](https://github-readme-activity-graph.vercel.app/graph?username=deepuvkrish&theme=react)
 
 
