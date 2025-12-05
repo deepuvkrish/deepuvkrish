@@ -10,7 +10,7 @@
 
     
 
-> CREATIVE , INNOVATIVE AND PASSIONATE
+> CREATIVE , INNOVATIVE AND PASSIONATE :
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepuvkrish&theme=github_dark)
 
 # About Me:
