@@ -21,7 +21,7 @@
 - 📫 Drop me a mail: kvdeepakkv1995@gmail.com  |  deepudeepz383@gmail.com
 
 
-# Tech Stack
+# Tech Stacks :-
 
 ## PROGRAMMING LANGUAGES:-
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
