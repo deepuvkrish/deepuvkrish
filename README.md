@@ -77,7 +77,7 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-# STATS
+# STATS :-
 
 ![image](https://github-profile-trophy.vercel.app/?username=deepuvkrish&theme=darkhub)
 
